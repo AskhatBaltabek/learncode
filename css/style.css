@@ -38,9 +38,13 @@ nav{
 	text-transform: uppercase;
 }
 nav .container{
-	padding-left: 200px;
+	
 }
 nav li a{
 	color: #212121;
 	font-weight: 400;
+}
+
+#section2{
+	
 }
