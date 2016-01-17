@@ -38,11 +38,16 @@ nav{
 	text-transform: uppercase;
 }
 nav .container{
-	
+
 }
 nav li a{
 	color: #212121;
 	font-weight: 400;
+}
+nav .hide-on-med-on-and-down{
+	position: relative;
+	left: 24%;
+	margin-left: -215px;
 }
 
 #section2{
